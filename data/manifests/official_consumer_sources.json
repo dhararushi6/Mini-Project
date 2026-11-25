@@ -1,0 +1,32 @@
+{
+  "corpus_name": "Karnataka consumer-law starter corpus",
+  "target_chunks": 250,
+  "legal_scope": "Central consumer law applicable in Karnataka",
+  "sources": [
+    {
+      "id": "consumer_protection_act_2019",
+      "title": "Consumer Protection Act, 2019",
+      "url": "https://www.indiacode.nic.in/bitstream/123456789/12808/1/the_consumer_protection_act%2C_2019_no._35_of_2019_date_09.08.2019.pdf"
+    },
+    {
+      "id": "consumer_commission_and_general_rules_2020",
+      "title": "Consumer Protection Consumer Disputes Redressal Commissions Rules and General Rules, 2020",
+      "url": "https://consumeraffairs.nic.in/sites/default/files/Consumer%20Commission%20Rules%20%26%20General%20Rules.pdf"
+    },
+    {
+      "id": "consumer_ecommerce_rules_2020",
+      "title": "Consumer Protection E-Commerce Rules, 2020",
+      "url": "https://consumeraffairs.nic.in/sites/default/files/E%20commerce%20rules.pdf"
+    },
+    {
+      "id": "consumer_mediation_rules_2020",
+      "title": "Consumer Protection Mediation Rules, 2020",
+      "url": "https://consumeraffairs.nic.in/sites/default/files/Mediation%20Rules.pdf"
+    },
+    {
+      "id": "consumer_ecommerce_amendment_2021",
+      "title": "Consumer Protection E-Commerce Amendment Rules, 2021",
+      "url": "https://consumeraffairs.nic.in/sites/default/files/Consumer%20Protection%20%28E-Commerce%29%20%28Amendment%29%20Rules%2C%202021.pdf"
+    }
+  ]
+}
